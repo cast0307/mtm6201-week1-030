@@ -1,0 +1,25 @@
+body {
+    background-color: rosybrown;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}
+
+h1 {
+    font-family: 'Unna', serif;
+    font-size: 40px;
+    color: blanchedalmond;
+}
+
+h2 {
+    font-family: 'Unna', serif;
+
+}
+
+img {
+    width: 20%;
+    height: 50%;
+}
+
+footer {
+    color: blanchedalmond;
+    font-family: 'Unna', serif;
+}
